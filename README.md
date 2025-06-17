@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, I’m Shreeyash 👋  
+🛠️ React Native Developer | 💻 Software Engineer | 🔍 Exploring New Tech
 
-<!--
-**Shreeyash836Jejurkar/Shreeyash836Jejurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm currently pursuing my MSc in Advanced Computer Science at the University of Sheffield.  
+Previously, I worked as a Mobile Application Developer, primarily using React Native and Flutter.  
+I'm passionate about building clean, functional, and impactful software—from full-stack apps to performance-optimized systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 **Connect with me**  
+- LinkedIn: [linkedin.com/in/shreeyash-jejurkar](https://www.linkedin.com/in/shreeyash-jejurkar-9999931a3/)  
+- Email: jejurkarshreeyash@gmail.com  
+
+---
+
+⚡ *Code. Learn. Build. Repeat.*
