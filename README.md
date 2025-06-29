@@ -4,7 +4,7 @@
 ---
 
 I'm currently pursuing my MSc in Advanced Computer Science at the University of Sheffield.  
-Previously, I worked as a Mobile Application Developer, primarily using React Native and Flutter.  
+Previously, I worked as a Mobile Application Developer, primarily using React Native, Flutter, Kotlin (compose).  
 I'm passionate about building clean, functional, and impactful software—from full-stack apps to performance-optimized systems.
 
 ---
