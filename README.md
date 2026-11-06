@@ -1,17 +1,18 @@
-### Hey, I’m Shreeyash 👋
-🛠️ React Native Developer | 💻 SDE-2 | 🔍 Exploring New Tech
+### Hey, I'm Shreeyash 👋
+
+💻 **Software Development Engineer 2**
+
+I completed my Bachelor's in Computer Science from **VIT** and my Master's in Advanced Computer Science from the **University of Sheffield, UK**.
+
+I enjoy building and designing software, particularly around **real-time systems, mobile architecture, application performance, and scalable applications**. I'm also interested in exploring the intersection of software, AI, and hardware.
 
 ---
 
-I have completed my MSc in Advanced Computer Science from the University of Sheffield.
-Previously, I worked as a Mobile Application Developer, primarily using React Native, Flutter, Kotlin and Swift.
-I am currently exploring the intersection of mobile applications and hardware, with a growing focus on robotics. I’m passionate about building clean, functional, and impactful software from full-stack applications to performance-optimized systems.
-
----
-
-📫 **Connect with me**  
-- LinkedIn: [linkedin.com/in/shreeyash-jejurkar](https://www.linkedin.com/in/shreeyash-jejurkar-9999931a3/)  
-- Email: jejurkarshreeyash@gmail.com  
+📫 **Connect with me**
+- LinkedIn: [shreeyash-jejurkar](https://www.linkedin.com/in/shreeyash-jejurkar-9999931a3/)
+- GitHub: [Shreeyash836Jejurkar](https://github.com/Shreeyash836Jejurkar)
+- LeetCode: [jejurkarshreeyash](https://leetcode.com/u/jejurkarshreeyash/)
+- Email: jejurkarshreeyash@gmail.com
 
 ---
 
